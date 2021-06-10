@@ -13,6 +13,13 @@ html {
     box-sizing: border-box;
 }
 
+@media screen and (max-width:800px) {
+    body {
+        padding-right: 20%;
+        padding-left: 20%;
+    }
+}
+
 body {
     margin: 0;
     padding: 0;
